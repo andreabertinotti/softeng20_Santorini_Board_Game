@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.MultipleMove.OnMoreMoveTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.MultipleMove.OnMoreMoveTest
+checkPossibleMoveTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleMove.OnMoreMoveTest.sceneOfGame(OnMoreMoveTest.java:22)
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleMove.OnMoreMoveTest.checkPossibleMoveTest(OnMoreMoveTest.java:40)
+

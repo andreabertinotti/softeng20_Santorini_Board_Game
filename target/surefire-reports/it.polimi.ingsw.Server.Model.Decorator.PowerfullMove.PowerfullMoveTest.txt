@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest
+moveSwapTooHighTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.sceneOfGame(PowerfullMoveTest.java:18)
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.moveSwapTooHighTest(PowerfullMoveTest.java:84)
+
+moveNotSwapTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.sceneOfGame(PowerfullMoveTest.java:18)
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.moveNotSwapTest(PowerfullMoveTest.java:54)
+
+moveSwapTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.sceneOfGame(PowerfullMoveTest.java:18)
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.moveSwapTest(PowerfullMoveTest.java:69)
+
+moveNotPushTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.sceneOfGame(PowerfullMoveTest.java:18)
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.moveNotPushTest(PowerfullMoveTest.java:99)
+
+movePushTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.sceneOfGame(PowerfullMoveTest.java:18)
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.PowerfullMoveTest.movePushTest(PowerfullMoveTest.java:114)
+

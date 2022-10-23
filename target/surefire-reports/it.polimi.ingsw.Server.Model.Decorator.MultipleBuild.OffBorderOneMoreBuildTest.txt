@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OffBorderOneMoreBuildTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OffBorderOneMoreBuildTest
+checkPossibleBuildingTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OffBorderOneMoreBuildTest.sceneOfGame(OffBorderOneMoreBuildTest.java:19)
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OffBorderOneMoreBuildTest.checkPossibleBuildingTest(OffBorderOneMoreBuildTest.java:44)
+

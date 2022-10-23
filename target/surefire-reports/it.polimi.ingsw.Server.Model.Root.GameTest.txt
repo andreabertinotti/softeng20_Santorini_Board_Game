@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Root.GameTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 10, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Root.GameTest
+nextPlayerTurnTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.nextPlayerTurnTest(GameTest.java:192)
+
+removePlayerTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.removePlayerTest(GameTest.java:61)
+
+GameWithMorePlayersTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.GameWithMorePlayersTest(GameTest.java:37)
+
+setWorkersInitialPosition  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.setWorkersInitialPosition(GameTest.java:158)
+
+selectWorkerTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.selectWorkerTest(GameTest.java:179)
+
+chooseFirstTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.chooseFirstTest(GameTest.java:124)
+
+chooseChallengerTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.chooseChallengerTest(GameTest.java:108)
+
+youngestPlayerTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.youngestPlayerTest(GameTest.java:78)
+
+GameCostructorTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.GameCostructorTest(GameTest.java:19)
+
+addPlayerTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Root.GameTest.addPlayerTest(GameTest.java:50)
+

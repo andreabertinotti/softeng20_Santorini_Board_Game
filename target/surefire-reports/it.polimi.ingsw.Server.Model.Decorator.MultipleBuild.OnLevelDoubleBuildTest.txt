@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnLevelDoubleBuildTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnLevelDoubleBuildTest
+checkPossibleMoveTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnLevelDoubleBuildTest.sceneOfGame(OnLevelDoubleBuildTest.java:19)
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnLevelDoubleBuildTest.checkPossibleMoveTest(OnLevelDoubleBuildTest.java:46)
+

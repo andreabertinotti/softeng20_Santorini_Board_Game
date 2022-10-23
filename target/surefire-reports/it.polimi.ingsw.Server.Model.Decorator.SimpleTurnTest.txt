@@ -1,0 +1,69 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 13, Skipped: 0, Time elapsed: 0.027 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest
+checkMoveFlow  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.checkMoveFlow(SimpleTurnTest.java:256)
+
+checkPossibleMoveTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.checkPossibleMoveTest(SimpleTurnTest.java:141)
+
+buildTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.buildTest(SimpleTurnTest.java:164)
+
+isWinnerTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.isWinnerTest(SimpleTurnTest.java:211)
+
+checkBuildFlow  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.checkBuildFlow(SimpleTurnTest.java:275)
+
+moveTestOnFalse  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.moveTestOnFalse(SimpleTurnTest.java:120)
+
+checkPossibleBuildTest  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.checkPossibleBuildTest(SimpleTurnTest.java:193)
+
+moveTest1  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.moveTest1(SimpleTurnTest.java:68)
+
+moveTest2  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.moveTest2(SimpleTurnTest.java:81)
+
+moveTest3  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.moveTest3(SimpleTurnTest.java:94)
+
+moveTest4  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.moveTest4(SimpleTurnTest.java:107)
+
+isLoserTest  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.isLoserTest(SimpleTurnTest.java:225)
+
+effectsOnOpponentsTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.sceneOfGame(SimpleTurnTest.java:17)
+	at it.polimi.ingsw.Server.Model.Decorator.SimpleTurnTest.effectsOnOpponentsTest(SimpleTurnTest.java:242)
+

@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.SwapTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.SwapTest
+checkPossibleMoveTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.SwapTest.sceneOfGame(SwapTest.java:19)
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.SwapTest.checkPossibleMoveTest(SwapTest.java:49)
+
+calculateMoveTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.SwapTest.sceneOfGame(SwapTest.java:19)
+	at it.polimi.ingsw.Server.Model.Decorator.PowerfullMove.SwapTest.calculateMoveTest(SwapTest.java:65)
+

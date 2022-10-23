@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest
+checkPossibleMoveTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest.sceneOfGame(CompleteBuildWinTest.java:20)
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest.checkPossibleMoveTest(CompleteBuildWinTest.java:52)
+
+checkPossibleMoveTest2  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest.sceneOfGame(CompleteBuildWinTest.java:20)
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest.checkPossibleMoveTest2(CompleteBuildWinTest.java:76)
+
+checkPossibleMoveTest3  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest.sceneOfGame(CompleteBuildWinTest.java:20)
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.CompleteBuildWinTest.checkPossibleMoveTest3(CompleteBuildWinTest.java:102)
+

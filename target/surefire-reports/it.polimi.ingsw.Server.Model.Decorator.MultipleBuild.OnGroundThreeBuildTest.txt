@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnGroundThreeBuildTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnGroundThreeBuildTest
+checkPossibleBuildingTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnGroundThreeBuildTest.sceneOfGame(OnGroundThreeBuildTest.java:20)
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnGroundThreeBuildTest.checkPossibleBuildingTest(OnGroundThreeBuildTest.java:47)
+
+checkBuildFlowTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnGroundThreeBuildTest.sceneOfGame(OnGroundThreeBuildTest.java:20)
+	at it.polimi.ingsw.Server.Model.Decorator.MultipleBuild.OnGroundThreeBuildTest.checkBuildFlowTest(OnGroundThreeBuildTest.java:131)
+

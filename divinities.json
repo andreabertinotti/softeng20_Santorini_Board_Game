@@ -1,0 +1,114 @@
+{
+  "list_of_divinities": [
+
+    {
+      "name": "Apollo",
+      "usable": true,
+      "effect": "swap",
+      "info": "Your Move: Your Worker may move into an opponent Worker’s space by forcing their Worker to the space yours just vacated."
+    },
+
+
+    {
+      "name": "Artemis",
+      "usable": true,
+      "effect": "one_more_move",
+      "info": "Your Move: Your Worker may move one additional time, but not back to its initial space."
+    },
+
+
+    {
+      "name": "Athena",
+      "usable": true,
+      "effect": "block_opponents",
+      "info": "Opponent’s Turn: If one of your Workers moved up on your last turn, opponent Workers cannot move up this turn."
+    },
+
+
+    {
+      "name": "Atlas",
+      "usable": true,
+      "effect": "build_dome",
+      "info": "Your Build: Your Worker may build a dome at any level."
+    },
+
+
+    {
+      "name": "Chronus",
+      "usable": false,
+      "effect": "complete_build_win",
+      "info": "Win Condition: You also win when there are at least five Complete Towers on the board."
+    },
+
+
+    {
+      "name": "Demeter",
+      "usable": true,
+      "effect": "different_pos_one_more_build",
+      "info": "Your Build: Your Worker may build one additional time, but not on the same space."
+    },
+
+
+    {
+      "name": "Hephaestus",
+      "usable": true,
+      "effect": "same_pos_one_more_build",
+      "info": "Your Build: Your Worker may build one additional block (not dome) on top of your first block."
+    },
+
+    {
+      "name": "Hestia",
+      "usable": true,
+      "effect": "off_border_one_more_build",
+      "info": "Your Build: Your Worker may build one additional time, but this cannot be on a perimeter space."
+    },
+
+
+    {
+      "name": "Minotaur",
+      "usable": true,
+      "effect": "push",
+      "info": "Your Move: Your Worker may move into an opponent Worker’s space, if their Worker can be forced one space straight backwards to an unoccupied space at any level."
+    },
+
+
+    {
+      "name": "Pan",
+      "usable": true,
+      "effect": "easy_win",
+      "info": "Win Condition: You also win if your Worker moves down two or more levels."
+    },
+
+
+    {
+      "name": "Poseidon",
+      "usable": true,
+      "effect": "on_ground_three_build",
+      "info": "End of Your Turn: If your unmoved Worker is on the ground level, it may build up to three times."
+    },
+
+
+    {
+      "name": "Prometheus",
+      "usable": true,
+      "effect": "on_level_double_build",
+      "info": "Your Turn: If your Worker does not move up, it may build both before and after moving."
+    },
+
+    {
+      "name": "Triton",
+      "usable": true,
+      "effect": "on_border_one_more_move",
+      "info": "Your Move: Each time your Worker moves into a perimeter space, it may immediately move again."
+    },
+
+
+    {
+      "name": "Zeus",
+      "usable": true,
+      "effect": "build_underneath",
+      "info": "Your Build: Your Worker may build a block under itself."
+    }
+  ]
+
+}

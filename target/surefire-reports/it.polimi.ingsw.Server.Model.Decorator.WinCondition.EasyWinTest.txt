@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: it.polimi.ingsw.Server.Model.Decorator.WinCondition.EasyWinTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in it.polimi.ingsw.Server.Model.Decorator.WinCondition.EasyWinTest
+isWinnerTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.EasyWinTest.sceneOfGame(EasyWinTest.java:21)
+	at it.polimi.ingsw.Server.Model.Decorator.WinCondition.EasyWinTest.isWinnerTest(EasyWinTest.java:46)
+
